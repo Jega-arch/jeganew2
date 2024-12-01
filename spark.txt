@@ -1,0 +1,1 @@
+Spark jobs are running automatically. we should trigger them using shell script.
