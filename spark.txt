@@ -1,2 +1,4 @@
 Spark jobs are running automatically. we should trigger them using shell script.
 It runs based up on the actions and transformations.
+It only depends on the tasks and stages. stages will perform transformation and operations and tasks will reside inside the nodes of the cluster
+and it will perform operations.
